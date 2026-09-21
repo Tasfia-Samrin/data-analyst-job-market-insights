@@ -1,4 +1,4 @@
-# Data Analyst Job Market Intelligence
+# Data Analyst Job Market Insights
 
 An end-to-end data analysis project exploring job postings for Data Analyst roles in the United States. The project analyzes in-demand skills, seniority levels, employment types, salary ranges, work-from-home opportunities, and job locations using Python and Power BI.
 
