@@ -1,0 +1,10 @@
+﻿# Large data files
+jobs_final.csv
+skills_final.csv
+gsearch_jobs.csv
+
+# Power BI dashboard
+dashboard.pbix
+
+# VS Code settings
+.vscode/
