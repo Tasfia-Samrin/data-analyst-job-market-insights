@@ -19,8 +19,6 @@ The analysis focuses on the following questions:
 
 ## Dataset
 
-The dataset contains **61,953 job postings** retrieved from Google Search results for the search term **"data analyst"** with the search location set to the **United States**.
-
 The dataset includes information such as:
 
 - Job title
@@ -32,7 +30,7 @@ The dataset includes information such as:
 - Job description
 - Extracted skills
 
-> **Note:** The dataset represents U.S. job postings captured through Google Search results and should not be interpreted as a complete representation of the entire U.S. Data Analyst job market.
+> **Note:** The dataset contains U.S. job postings collected through Google Search results, so it does not represent the entire U.S. Data Analyst job market.
 
 ## Tools & Technologies
 
@@ -98,9 +96,10 @@ The "Other" category represents postings where the title did not contain an expl
 
 ### Salary
 
-Salary information is available for only a subset of postings. The overall median standardized annual salary among postings with salary data is **$88,400**.
+Salary information can be found in only some postings. The median standardized annual salary of postings with salary data is **$88,400**.
 
-Salary analysis also considers statistically extreme observations so that unusually high salary values do not disproportionately affect the analysis.
+Salary analysis also accounts for unusually high salary values to prevent them from having too much influence on the results.
+
 
 ## Power BI Dashboard
 
