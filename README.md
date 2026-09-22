@@ -1,4 +1,4 @@
-# Data Analyst Job Market Insights
+# Job Market Insights
 
 An end-to-end data analysis project exploring job postings for Data Analyst roles in the United States. The project analyzes in-demand skills, seniority levels, employment types, salary ranges, work-from-home opportunities, and job locations using Python and Power BI.
 
@@ -122,3 +122,6 @@ Interactive slicers allow the dashboard to be filtered by:
 - Seniority
 - Employment Type
 - Location
+
+  <img width="842" height="717" alt="image" src="https://github.com/user-attachments/assets/016a4d5d-8b62-4629-93ee-83938a9f454d" />
+
