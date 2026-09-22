@@ -122,5 +122,4 @@ Interactive slicers allow the dashboard to be filtered by:
 - Employment Type
 - Location
 
-  <img width="842" height="717" alt="image" src="https://github.com/user-attachments/assets/016a4d5d-8b62-4629-93ee-83938a9f454d" />
-
+![Power BI Dashboard](dashboard_screenshot/dashboard.png)
