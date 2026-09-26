@@ -8,14 +8,14 @@ The goal of this project is to understand what employers are looking for in Data
 
 The analysis focuses on the following questions:
 
-- What skills are most frequently requested in Data Analyst job postings?
-- How do required skills vary across seniority levels?
-- What employment types are most common?
-- What salary ranges are represented in the postings?
-- How does median salary vary by seniority?
-- Which locations have the highest number of postings?
-- How many postings explicitly indicate work-from-home opportunities?
-- How much salary information is available in the dataset?
+- What skills are most frequently requested in Data Analyst job postings
+- How do required skills vary across seniority levels
+- What employment types are most common
+- What salary ranges are represented in the postings
+- How does median salary vary by seniority
+- Which locations have the highest number of postings
+- How many postings explicitly indicate work-from-home opportunities
+- How much salary information is available in the dataset
 
 ## Dataset
 
